@@ -2,6 +2,7 @@
 SpeedClickers with preset speeds and no selection GUI
 Includes indicators at the top right corner of the screen to show which speed clickers are activated
 **Disables Caps Lock key!**
+File names are formatted as SpeedClicker_<Left Click MS Delay>,<Right Click MS Delay>
 
 ## Controls
 `Left Shift`+`~`: Activate/Deactivate LMB Clicker
